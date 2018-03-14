@@ -1,0 +1,205 @@
+
+.navbar{
+    background-color: #00796b;
+
+}
+
+.jumbotron h1 {
+    font-size: 100px;
+    font-family: KacstPoster;
+}
+
+.jumbotron {
+    background-color:#004d40;
+    color: white;
+    padding: 10px 25px;
+    margin-bottom: 0px;
+
+}
+
+
+.active{
+    color: #000;
+    background-color: white;
+}
+
+footer{
+    background-color: #00796b;
+    height: 200px;
+    position:relative; /* ou fixed */
+    width: 100%; /* important pour fixed le footer*/
+    bottom:0px; /* coller en bas */
+
+
+}
+
+.nav li a {
+    color: white;
+    font-family: "DejaVu Sans Condensed";
+}
+
+
+.container form{
+
+    text-align: center;
+    width: 100%;
+    height: 300px;
+    margin-left:20px; /*permet de centrer horizontalement */
+    margin-right: 20px; /*permet de centrer horizontalement */
+
+
+}
+
+
+.center{
+    text-align: center  ;
+}
+
+
+.btn-info{
+    background-color:#00796b;
+}
+label  {
+    font-style: oblique;
+    font-size: larger;
+    color: #004d40;
+}
+
+.icone{
+
+    font-size: 10px;
+    width: 80px;
+    height: 80px;
+
+}
+
+.ligne{
+
+    font-size: 10px;
+    width: 95%;
+    height: 50px;
+
+}
+
+ul.ui-autocomplete {
+
+    font-size: larger;
+    background-color: #004d40;
+    font-size: 20px;
+}
+
+
+.row ul li {
+    list-style: none;
+    text-align: left;
+}
+
+#id1{
+    background: #ffcd00;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+
+#id2 {
+    background-color: #003ca6;
+
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id3 {
+    background-color: #837902;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id4{
+    background-color: #cf009e;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id5 {
+    background-color: #ff7e2e;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id6 {
+    background-color: #6eca97;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id7{
+    background-color: #fa9aba;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id9{
+    background-color: #b6bd00;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+
+}
+#id8{
+    background-color: #e19bdf;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id10{
+    background-color: #c9910d;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id11{
+    background-color: #704b1c;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id12{
+    background-color: #007852;
+    width: 80%;
+    height: auto;
+    margin: 10px;
+
+}
+#id13{
+    background-color: #6ec4e8;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+#id14{
+    background-color: #62259d;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+
+}
+#id3b{
+    background-color: #6ec4e8;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+
+}
+#id7b{
+    background-color: #6eca97;
+    width: 95%;
+    height: auto;
+    margin: 10px;
+}
+
+#fin {
+height: auto;
+
+	
+
+}
